@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\bin\Debug\MillersDeterminateAlgorythm.dll
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\bin\Debug\MillersDeterminateAlgorythm.pdb
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\obj\Debug\MillersDeterminateAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\obj\Debug\MillersDeterminateAlgorythm.dll
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\obj\Debug\MillersDeterminateAlgorythm.pdb
+C:\Users\User\Downloads\PrimeNumbersList\MillersDeterminateAlgorythm\obj\Debug\MillersDeterminateAlgorythm.csprojAssemblyReference.cache
